@@ -52,7 +52,8 @@ You need a Google Gemini API Key to use the AI features.
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+![UI Template 1](Screenshots/s1.png)
+![UI Template 2](Screenshots/s2.png)
 
 ## 📄 License
 
